@@ -1,0 +1,8 @@
+PySide6
+kaggle
+ultralytics>=8.3.78
+reportlab
+matplotlib
+Pillow
+pandas
+pyinstaller
